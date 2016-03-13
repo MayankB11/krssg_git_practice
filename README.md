@@ -8,5 +8,6 @@ Add your name in README.MD as `* [Name](username)` at line 10.<br/>
 Send a PR to this Repository.
 
 * [Mayank Bhushan](MayankB11)
+* [Nishant Nikhil](nishnik)
 
 This will effectively push all other names downward.
